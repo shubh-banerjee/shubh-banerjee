@@ -4,6 +4,12 @@
 </p>
 
 <p align="center">
+  <img src="[YOUR_GIF_URL](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1ZnZpZG01MXZ6bmFpaDByd3NjY2MzeWRxcWQ5dml5MWM1azhheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMB4mNPVvz2fPWfuRM/giphy.gif)" width="600"/>
+</p>
+
+
+
+<p align="center">
   <a href="mailto:shubhbanerjee.business@gmail.com">
     <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email" />
   </a>
