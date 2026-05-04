@@ -1,7 +1,7 @@
 <h1 align="center">Subham Banerjee</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1ZnZpZG01MXZ6bmFpaDByd3NjY2MzeWRxcWQ5dml5MWM1azhheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMB4mNPVvz2fPWfuRM/giphy.gif" width="700"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1ZnZpZG01MXZ6bmFpaDByd3NjY2MzeWRxcWQ5dml5MWM1azhheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMB4mNPVvz2fPWfuRM/giphy.gif" width="200"/>
 </p>
 
 <h1 align="center">Subham Banerjee</h1>
