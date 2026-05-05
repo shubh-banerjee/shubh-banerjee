@@ -6,12 +6,12 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1ZnZpZG01MXZ6bmFpaDByd3NjY2MzeWRxcWQ5dml5MWM1azhheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMB4mNPVvz2fPWfuRM/giphy.gif" width="200"/>
 </p>
 <p align="center">
-  <a href="mailto:shubhbanerjee.business@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png" alt="Email" />
+  <a href="mailto:subhambanerjee.business@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="34"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/subhambanerjee/">
-    <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/-subhambanerjee/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="34"/>
   </a>
 </p>
 
@@ -46,6 +46,10 @@ Most of my work sits at the intersection of product thinking, systems, and exper
 ---
 
 ## Experience Highlights
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubh-banerjee/shubh-banerjee/main/Logos.png" width="650" style="background:white; padding:10px; border-radius:10px;" />
+</p>
 
 - Designed AI-driven interview and assessment experiences
 - Built onboarding systems that improved adoption and reduced friction
